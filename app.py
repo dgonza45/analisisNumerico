@@ -92,7 +92,7 @@ if (metodo_seleccionado_capitulo1 == '' and metodo_seleccionado_capitulo2 == '' 
     st.write("<h1 style='text-align: center;'>🏴‍☠️ PI-Rates 🏴‍☠️</h1>", unsafe_allow_html=True)
     st.write(
         "<p style='font-size:18px'>¡Bienvenido a PI-Rates! En esta página podrás explorar los métodos numéricos más "
-        "fascinantes de los 7 océanos.</p>", unsafe_allow_html=True)
+        "fascinantes de los 7 mares.</p>", unsafe_allow_html=True)
     st.image("pirate.jpg", caption='', use_column_width=True)
 
 # ======================================================================================================================
